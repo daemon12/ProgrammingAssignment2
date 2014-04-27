@@ -1,3 +1,4 @@
+## R Programming assignment 2 from COURSERA
 ## FUNCTIONS FOR CREATING A MATRIX with CACHED VALUE FOR IT'S INVERSE
 
 ## This function creates a special "matrix" object, which has a list of functions for:
